@@ -14,5 +14,9 @@
  - Education: National University of Singapore, University of Edinburgh
  - #History #Football #Investing
 
-adflja;fsdjlasjdfl
+
+ ### Panny Chen
+ - Nationality: China
+ - Education: National University of Singapore, Zhejiang University
+ - #Economics #DataScience
 
