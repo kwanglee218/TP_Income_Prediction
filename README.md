@@ -7,7 +7,12 @@
  - #SocialScience #DataScience #...
  
 ### Kwanghoon 
- - 
+ -
+
+### Tony Tian
+ - Nationality: China
+ - Education: National University of Singapore, University of Edinburgh
+ - #History #Football #Investing
 
 
 
