@@ -1,22 +1,23 @@
 # Team
 
 ### Donghwan Kim
- - Data Science Intern at UPS Asia Group Pte. Ltd.
- - Nationality\t: South Korea
- - Education\t: National University of Singapore
- - #SocialScience #DataScience #...
+ - Nationality : South Korea
+ - Education   : National University of Singapore, Seoul National University of Science and Technology
+ - #PeopleAnalytics #SocialScience #DataScience #...
  
-### Kwanghoon 
- -
+### Kwang Hoon Lee
+ - Nationality : South Korea
+ - Education   : National University of Singapore
+ - #... #...
 
 ### Tony Tian
- - Nationality: China
- - Education: National University of Singapore, University of Edinburgh
+ - Nationality : China
+ - Education   : National University of Singapore, University of Edinburgh
  - #History #Football #Investing
 
 
  ### Panny Chen
- - Nationality: China
- - Education: National University of Singapore, Zhejiang University
+ - Nationality : China
+ - Education   : National University of Singapore, Zhejiang University
  - #Economics #DataScience
 
