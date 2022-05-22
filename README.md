@@ -5,7 +5,7 @@
  - Education   : National University of Singapore, Seoul National University of Science and Technology
  - #SocialScience #DataScience #PeopleAnalytics
  
-### Kwang Hoon Lee
+### Kwanghoon Lee
  - Nationality : South Korea
  - Education   : National University of Singapore
  - #... #...
