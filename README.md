@@ -3,7 +3,7 @@
 ### Donghwan Kim
  - Nationality : South Korea
  - Education   : National University of Singapore, Seoul National University of Science and Technology
- - #PeopleAnalytics #SocialScience #DataScience #...
+ - #SocialScience #DataScience #PeopleAnalytics
  
 ### Kwang Hoon Lee
  - Nationality : South Korea
