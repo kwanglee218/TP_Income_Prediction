@@ -7,8 +7,8 @@
  
 ### Kwanghoon Lee
  - Nationality : South Korea
- - Education   : National University of Singapore
- - #... #...
+ - Education   : National University of Singapore, University of Iowa
+ - #SupplyChainManagement #DataScience
 
 ### Tony Tian
  - Nationality : China
