@@ -25,14 +25,18 @@
    - BSc. Statistics & BSc. Economics / University of Iowa, USA
  - #DataScience #CustomerAnalytics #CommercialAnalytics #Strategy&Operations
 
-### Zhenzhou Tian (Tony)
+### Zhenzhou Tian (Tony) / [LinkedIn](https://www.linkedin.com/in/tonytian1021/)
  - Nationality : Chinese
- - Education   : National University of Singapore, University of Edinburgh
- - #Finance #Economics #DataScience #History #Football #Investing
-
+ - Education
+   - MSc. Business Analytics / National University of Singapore, Singapore
+   - BSc. Engineering / University of Edinburgh, USA
+ - National University of Singapore, University of Edinburgh
+ - #CloudComputing #DataScience #Finance #Economics #History #Football #Investing
 
  ### Panny Chen (Keyi)
  - Nationality : Chinese
- - Education   : National University of Singapore, Zhejiang University
+ - Education
+   - MSc. Business Analytics / National University of Singapore, Singapore
+   - BSc. / Zhejiang University, China
  - #Economics #DataScience
 
