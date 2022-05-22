@@ -11,21 +11,19 @@
 
 # Team
 
-### Donghwan Kim (Derrick)
+### Donghwan Kim (Derrick) / [LinkedIn](www.linkedin.com/in/da-devangelist), [Website](https://hwaneest.github.io/)
  - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
    - BSc. Engineering / Seoul National University of Science and Technology, South Korea
  - #DataScience #SocialScience #Organizational Behavior #PeopleAnalytics #Tennis
- - More info. [LinkedIn](www.linkedin.com/in/da-devangelist)  /  [Website](https://hwaneest.github.io/)
- 
-### Kwanghoon Lee (Jason)
+
+### Kwanghoon Lee (Jason) / [LinkedIn](https://www.linkedin.com/in/jason-kwanghun-lee/)
  - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
    - BSc. Statistics & BSc. Economics / University of Iowa, USA
  - #DataScience #CustomerAnalytics #CommercialAnalytics #Strategy&Operations
- - More info. [LinkedIn](https://www.linkedin.com/in/jason-kwanghun-lee/)
 
 ### Zhenzhou Tian (Tony)
  - Nationality : Chinese
