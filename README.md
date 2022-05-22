@@ -1,7 +1,7 @@
 # Overview
  - Team Project at National University of Singapore - AY2021/2022
  - Course Name: [Master of Science in Business Analytics](https://msba.nus.edu.sg/)
- - Supervisor: Professor Danny Poo (Deputy Head at the Department of Information Systems and Analytics)
+ - Supervisor: Professor [Danny Poo](https://www.comp.nus.edu.sg/~dpoo/index.html) (Deputy Head at the Department of Information Systems and Analytics)
  - Module Info.: BT5151 - Advanced Analytics and Machine Learning
 
 # Project Overview
@@ -12,26 +12,29 @@
 # Team
 
 ### Donghwan Kim (Derrick)
- - Nationality : South Korea
+ - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
    - BSc. Engineering / Seoul National University of Science and Technology, South Korea
- - #DataScience #SocialScience #PeopleAnalytics #Tennis
- - [LinkedIn](www.linkedin.com/in/da-devangelist), [Website](https://hwaneest.github.io/)
+ - #DataScience #SocialScience #Organizational Behavior #PeopleAnalytics #Tennis
+ - More info. [LinkedIn](www.linkedin.com/in/da-devangelist)  /  [Website](https://hwaneest.github.io/)
  
 ### Kwanghoon Lee (Jason)
- - Nationality : South Korea
- - Education   : National University of Singapore, University of Iowa
- - #SupplyChainManagement #DataScience
+ - Nationality : South Korean
+ - Education
+   - MSc. Business Analytics / National University of Singapore, Singapore
+   - BSc. Statistics & BSc. Economics / University of Iowa, USA
+ - #DataScience #CustomerAnalytics #CommercialAnalytics #Strategy&Operations
+ - More info. [LinkedIn](https://www.linkedin.com/in/jason-kwanghun-lee/)
 
 ### Zhenzhou Tian (Tony)
- - Nationality : China
+ - Nationality : Chinese
  - Education   : National University of Singapore, University of Edinburgh
  - #Finance #Economics #DataScience #History #Football #Investing
 
 
  ### Panny Chen (Keyi)
- - Nationality : China
+ - Nationality : Chinese
  - Education   : National University of Singapore, Zhejiang University
  - #Economics #DataScience
 
