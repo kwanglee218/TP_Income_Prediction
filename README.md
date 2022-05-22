@@ -6,7 +6,8 @@
 
 # Project Overview
  - Income Bias Analysis: Using Data Science Methodologies
- - Defined_Problems & Codes & Presentation
+ - Objective: Predict Income Level & Support Data-Driven Policy Makings
+ - In this repository: Defined_Problems & Codes & Presentation
  - #SocialScience #MachineLearning #DataScience #PolicyMaking #FindingsFromData
 
 # Team
