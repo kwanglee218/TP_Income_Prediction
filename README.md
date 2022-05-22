@@ -1,5 +1,5 @@
 # Overview
- - Team Project at National University of Singapore
+ - Team Project at National University of Singapore - AY2021/2022
  - Course Name: Master of Science in Business Analytics
  - Supervisor: Professor Danny Poo (Deputy Head at the Department of Information Systems and Analytics)
  - Module Info.: BT5151 - Advanced Analytics and Machine Learning
