@@ -34,7 +34,7 @@
  - National University of Singapore, University of Edinburgh
  - #CloudComputing #DataScience #Finance #Economics #History #Football #Investing
 
- ### Panny Chen (Keyi)
+ ### Keyi Chen (Panny)
  - Nationality : Chinese
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
