@@ -12,21 +12,21 @@
 
 # Team
 
-### Donghwan Kim (Derrick) / [LinkedIn](www.linkedin.com/in/da-devangelist), [Website](https://hwaneest.github.io/)
+### Donghwan Kim (Derrick) / [LinkedIn](www.linkedin.com/in/da-devangelist), [Personal.Blog](https://hwaneest.github.io/), [Github](https://github.com/hwaneest)
  - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
    - BSc. Engineering / Seoul National University of Science and Technology, South Korea
  - #DataScience #SocialScience #Organizational Behavior #PeopleAnalytics #Tennis
 
-### Kwanghoon Lee (Jason) / [LinkedIn](https://www.linkedin.com/in/jason-kwanghun-lee/)
+### Kwanghoon Lee (Jason) / [LinkedIn](https://www.linkedin.com/in/jason-kwanghun-lee/), [Github](https://github.com/kwanglee218)
  - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
    - BSc. Statistics & BSc. Economics / University of Iowa, USA
  - #DataScience #CustomerAnalytics #CommercialAnalytics #Strategy&Operations
 
-### Zhenzhou Tian (Tony) / [LinkedIn](https://www.linkedin.com/in/tonytian1021/)
+### Zhenzhou Tian (Tony) / [LinkedIn](https://www.linkedin.com/in/tonytian1021/), [Github](https://github.com/tonytian1021)
  - Nationality : Chinese
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
@@ -34,10 +34,10 @@
  - National University of Singapore, University of Edinburgh
  - #CloudComputing #DataScience #Finance #Economics #History #Football #Investing
 
- ### Keyi Chen (Panny)
+ ### Keyi Chen (Panny) / [LinkedIn](https://www.linkedin.com/in/keyi-chen-9b3677200/?originalSubdomain=sg) / [Github](https://github.com/keyiPY)
  - Nationality : Chinese
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
-   - BSc. / Zhejiang University, China
+   - BSc. Economics / Zhejiang University, China
  - #Economics #DataScience
 
