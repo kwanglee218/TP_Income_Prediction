@@ -19,7 +19,7 @@
    - BSc. Engineering / [Seoul National University of Science and Technology](https://en.seoultech.ac.kr/), South Korea
  - #DataScience #SocialScience #Organizational Behavior #PeopleAnalytics #Tennis
 
-### Kwang Hun Lee (Jason) / [LinkedIn](www.linkedin.com/in/jason-kwanghun-lee), [Github](https://github.com/kwanglee218)
+### Kwanghun Lee (Jason) / [LinkedIn](www.linkedin.com/in/jason-kwanghun-lee), [Github](https://github.com/kwanglee218)
  - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
